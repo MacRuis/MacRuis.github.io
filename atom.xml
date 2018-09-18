@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MacRui</title>
+  
+  <subtitle>Mac 软件分享</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://macruis.github.io/"/>
+  <updated>2018-09-18T14:59:12.727Z</updated>
+  <id>https://macruis.github.io/</id>
+  
+  <author>
+    <name>Rui</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CleanMyMac X 4.0.2</title>
+    <link href="https://macruis.github.io/2018/09/18/CleanMyMac-X-4-0-2/"/>
+    <id>https://macruis.github.io/2018/09/18/CleanMyMac-X-4-0-2/</id>
+    <published>2018-09-18T03:06:47.000Z</published>
+    <updated>2018-09-18T14:59:12.727Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>软件介绍：</p></blockquote><ul><li>CleanMyMac for mac让您安全，智能扫描并清除您的整个系统，删除大的、未使用的文件，减少你的iPhoto图库的大小，卸载不需要的应用程序或修复那些不能正常运行的，管理你所有的程序来自一个地方以及做更多事情 - 一切来自一个全新设计和精美简洁的界面。</li><li>核心功能</li><li>清理缓存: 系统长久运行所生成的缓存文件会拖慢整机运行速度。清理缓存会让您的 Mac 跑得更快；</li><li>清理日志: 各种应用在日常使用中会逐渐积累数量可观的日志文件。清理它们，释放宝贵硬盘空间</li><li>清理系统垃圾: 不需要解释了哦</li><li>清理回收站: 不仅如此，还可以实时监控回收站状态；</li><li>优化 iPhoto: 每当编辑 iPhoto 内照片时，系统会自动备份隐藏原始照片文档。使用 CleanMyMac 2 将轻松揪出这些隐藏文件，在不破坏 iPhoto 库的情况下为您清理，释放空间；插件管理、偏好设置、以及更多值得您发现的实用功能。</li></ul><blockquote><p>Screenshot 软件截屏：</p></blockquote><p><img src="/2018/09/18/CleanMyMac-X-4-0-2/Snipaste_2018-09-18_11-18-02.png" alt="关于" title="关于"><br><img src="/2018/09/18/CleanMyMac-X-4-0-2/Snipaste_2018-09-18_11-17-11.png" alt="软件界面" title="软件界面"></p><blockquote><p>下载地址：</p></blockquote><p><a href="https://pan.baidu.com/s/1rvoqcnFC4Z4uhMBoHrshLg" target="_blank" rel="noopener">https://pan.baidu.com/s/1rvoqcnFC4Z4uhMBoHrshLg</a> 提取码: vbum</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;&lt;p&gt;软件介绍：&lt;/p&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li&gt;CleanMyMac for mac让您安全，智能扫描并清除您的整个系统，删除大的、未使用的文件，减少你的iPhoto图库的大小，卸载不需要的应用程序或修复那些不能正常运行的，管理你所有的程
+      
+    
+    </summary>
+    
+    
+      <category term="工具" scheme="https://macruis.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+</feed>
