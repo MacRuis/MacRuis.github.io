@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>MacRui</title>
+  <title>Mac 软件资源分享</title>
   
   <subtitle>Mac 软件分享</subtitle>
   <link href="/atom.xml" rel="self"/>
